@@ -1,0 +1,1 @@
+export const API = 'https://us-west-2.api.scaphold.io/graphql/myspace';
